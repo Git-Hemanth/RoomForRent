@@ -29,9 +29,12 @@ body {
 
 /* Address Section Styles */
 .address-section {
-    padding: 50px 0;
+    padding: 20px 0;
     background-color: black;
     text-align: center; /* Center text */
+}
+.address-section a{
+ transform: calc(5%,7%);
 }
 
 .address-section h2 {
@@ -40,7 +43,7 @@ body {
 
 /* Pricing Section Styles */
 .pricing-section {
-    padding: 50px 0;
+    padding: 20px 0;
     background-color: black;
     text-align: center; /* Center text */
 }
@@ -51,7 +54,7 @@ body {
 
 /* Contact Section Styles */
 .contact-section {
-    padding: 50px 0;
+    padding: 20px 0;
     background-color: black;
     text-align: center; /* Center text */
 }
@@ -65,7 +68,7 @@ body {
 
 /* Address Section Styles */
 .address-section {
-    padding: 50px 0;
+    padding: 20px 0;
     background-color: black;
     text-align: center; /* Center text */
 }
